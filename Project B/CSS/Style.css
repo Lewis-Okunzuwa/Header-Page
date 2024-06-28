@@ -1,0 +1,29 @@
+body{
+    background-image: url('/IMAGES/World\ GIF.gif')
+    
+}
+
+header{
+    display: flex;
+    background-color:white;
+    justify-content: space-between;
+    size-adjust: 2px;
+    
+}
+
+nav {
+    display: flex;
+}
+
+nav li {
+    list-style-type: none;
+    padding-top: 50px;
+    padding: 20px;
+    
+}
+
+nav li:hover{
+    background-color: blue;
+    color: yellow;
+    
+}
